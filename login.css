@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+#header{
+	height:auto;;
+	width:100%;
+	background:salmon;
+	color:white;
+	text-align:center;	
+	}
+*{
+	padding:0px;
+	margin:0px;	
+	}
+#menu_outer{
+		height:300px;
+		width:400px;
+		text-align:center;
+		
+		/*border:solid 1px green;	*/
+		margin-left:550px;	
+		margin-top:100px;
+		margin-bottom:100px;
+	}
+#menu1{
+		height:100px;
+		width:300px;
+		border:solid 2px green;
+		
+		padding-top:50px;
+		padding-left:50px;
+		padding-bottom:50px;
+		line-height:30px;
+	}
+.button1{
+		height:30px;
+		width:60px;
+		background:red;
+		color:white;	
+	}
+	
+#footer{
+	height:auto;
+	width:100%;
+	background:salmon;
+	color:white;
+	text-align:center;	
+	
+	}
